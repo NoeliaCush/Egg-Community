@@ -1,0 +1,66 @@
+h1{
+    color: rgb(65, 141, 130);
+}
+
+strong{
+   color: red; 
+}
+
+.destacado{
+    color: rgb(239, 207, 110);
+}
+
+h2{
+    color:blue;
+}
+
+a{
+    color: red;
+    text-decoration: underline;
+}
+
+em{
+    color: blue;
+}
+
+.especial{
+    color:purple;
+}
+
+table{
+    border-style: 1px solid black;
+    border-collapse: collapse;
+    font-size: 105%;
+}
+
+th.especial{
+    color: rgb(239, 207, 110);
+}
+
+th{ 
+    color: red;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td{ 
+    color: green;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+td strong{
+    color: rgb(239, 207, 110);
+}
+
+#adicional{
+    color:olive;
+}
+
+span#especial{
+    color:rgb(218, 82, 218);
+}
+
+div#adicional a{
+    color: green;
+}
